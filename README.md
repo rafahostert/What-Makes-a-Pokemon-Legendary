@@ -7,11 +7,17 @@ This dataset contains information on all 802 Pokemon from all Seven Generations 
 
 Content
 name: The English name of the Pokemon
+
 japanese_name: The Original Japanese name of the Pokemon
+
 pokedex_number: The entry number of the Pokemon in the National Pokedex
+
 percentage_male: The percentage of the species that are male. Blank if the Pokemon is genderless.
+
 type1: The Primary Type of the Pokemon
+
 type2: The Secondary Type of the Pokemon
+
 classification: The Classification of the Pokemon as described by the Sun and Moon Pokedex
 height_m: Height of the Pokemon in metres
 weight_kg: The Weight of the Pokemon in kilograms
